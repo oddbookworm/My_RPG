@@ -1,0 +1,11 @@
+cfgv
+distlib
+filelock
+identify
+nodeenv
+platformdirs
+pre-commit
+pygame-ce
+PyYAML
+ruff
+virtualenv
